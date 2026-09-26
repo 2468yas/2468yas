@@ -28,3 +28,5 @@
 ### connect
 <a href="https://linkedin.com/in/yasinmaow"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff1a1a" /></a>
 <img src="https://raw.githubusercontent.com/2468yas/2468yas/output/snake-red.svg" />
+### leetcode
+<img src="https://leetcard.jacoblin.cool/Phoenix_212?theme=dark&font=Fira%20Code&ext=heatmap" />
