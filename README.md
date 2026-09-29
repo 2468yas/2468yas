@@ -10,7 +10,7 @@
 - 🎓 Computer Science @ UW
 - ⚡ HPC / parallel computing research (MPI, OpenMP, CUDA)
 - 🛠️ Was a SWE Intern @ SEO Tech Developer Program
-- 🌍 Speak English and Arabic
+- 🌍 Speak English
 
 ### tech stack
 <p align="left">
